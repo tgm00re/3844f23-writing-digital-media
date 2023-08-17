@@ -1,0 +1,51 @@
+# Temp
+book/04-Textual-Analysis
+book/05-Machine-Learning
+
+# Jupyter notebook stuff
+.ipynb_checkpoints
+
+# Syllabi
+book/course-schedule-2020.ipynb
+book/course-schedule-2021.ipynb
+
+# General
+.DS_Store
+SCAFFOLDING.md
+*.pdf
+book/00-Ethics
+
+# Environments
+.env
+.venv
+env/
+venv/
+ENV/
+env.bak/
+venv.bak/
+._*
+*.~lock*
+
+
+# Jupyter book
+book/_build/
+book/features
+in-progress
+scraps
+Workbook-Solutions
+book/xx-*
+*-WORKBOOK.ipynb
+
+# VS Code
+.vscode
+
+.twarc
+twarc.log
+
+# Data
+book/00-Datasets
+book/data/00-to-be-processed
+book/data/kaggle
+book/data/04-textual-analysis/jeopardy/Jeopardy-Questions.csv
+book/data/05-ML/flickr
+book/data/04-textual-analysis/amazon/video_game_reviews_*.txt
