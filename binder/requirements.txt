@@ -5,10 +5,8 @@ numpy
 matplotlib
 jupyter-book
 bokeh
-bs4
 requests
-twarc
-git+https://github.com/maria-antoniak/little-mallet-wrapper.git
+# git+https://github.com/maria-antoniak/little-mallet-wrapper.git
 scikit-learn
 scipy
 spacy
@@ -19,3 +17,8 @@ statsmodels
 # upgrade to latest docu when they accomodate new tmtoolkit version
 docuscospacy
 tmtoolkit==0.11.2
+# CLIP IMAGE ML
+timm
+opencv-python
+albumentations
+transformers
