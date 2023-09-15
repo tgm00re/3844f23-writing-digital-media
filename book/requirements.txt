@@ -10,3 +10,22 @@ plotly
 sphinx-click
 sphinx_inline_tabs
 sympy
+jupyter-book
+bokeh
+requests
+# git+https://github.com/maria-antoniak/little-mallet-wrapper.git
+scikit-learn
+scipy
+spacy
+regex
+seaborn
+wquantiles
+statsmodels
+# upgrade to latest docu when they accomodate new tmtoolkit version
+docuscospacy
+tmtoolkit==0.11.2
+# CLIP IMAGE ML
+timm
+opencv-python
+albumentations
+transformers

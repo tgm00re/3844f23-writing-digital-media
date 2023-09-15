@@ -5,50 +5,41 @@ parts:
   chapters:
   - file: How-To-Interact-With-This-Book
     title: Interact With This Book
-- caption: The Book
-  chapters:
-  - file: 01-Installation-Workflow
-    title: 1. Installation and Workflow
-    sections:
-    - file: 01-Installation-Workflow/00-Install-Python-and-VSCode.ipynb
-    - title: Install Python and VS Code
-    - file: 01-Installation-Workflow/01-Install-Git-GitHub.ipynb
-    - title: Install git and Github
-    - file: 01-Installation-Workflow/02-Fork-and-Clode-Course-Repo.ipynb
-    - title: Fork and Clone the Course Repo
-  - file: 02-Python/00-Python
-    title: 2. Python Basics
-    sections:
-    - file: 02-Python/02-How-to-Use-Jupyter-Notebooks
-      title: How to use Notebooks in VS Code
-    - file: 02-Python/03-Anatomy-Python-Script
-      title: Anatomy of a Python script
-    - file: 02-Python/04-Variables
-      title: Python Variables
-    - file: 02-Python/05-Data-Types
-      title: Python Data Types
-    - file: 02-Python/06-String-Methods
-      title: Python String Methods
-#     - file: 02-Python/07-Files-Character-Encoding
+# - caption: The Book
+#   chapters:
+  # - file: 02-Intro-to-Python/01-Python
+  #   title: 2. Python Basics
+  #   sections:
+  #   - file: 02-Intro-to-Python/02-How-to-Use-Jupyter-Notebooks
+  #     title: How to use Notebooks in VS Code
+  #   - file: 02-Intro-to-Python/03-Anatomy-Python-Script
+  #     title: Anatomy of a Python script
+  #   - file: 02-Intro-to-Python/04-Variables
+  #     title: Python Variables
+  #   - file: 02-Intro-to-Python/05-Data-Types
+  #     title: Python Data Types
+  #   - file: 02-Intro-to-Python/06-String-Methods
+  #     title: Python String Methods
+#     - file: 02-Intro-to-Python/07-Files-Character-Encoding
 #       title: Files and Character Encoding
-#     - file: 02-Python/08-Comparisons-Conditionals
+#     - file: 02-Intro-to-Python/08-Comparisons-Conditionals
 #       title: Python Comparisons and Conditionals
-#     - file: 02-Python/09-Lists-Loops-Part1
+#     - file: 02-Intro-to-Python/09-Lists-Loops-Part1
 #       title: Python Lists and Loops
-#     - file: 02-Python/10-Lists-Loops-Part2
+#     - file: 02-Intro-to-Python/10-Lists-Loops-Part2
 #       title: Python Lists and Loops (Cont.)
-#     - file: 02-Python/11-Dictionaries
+#     - file: 02-Intro-to-Python/11-Dictionaries
 #       title: Python Dictionaries
-#     - file: 02-Python/12-Functions
+#     - file: 02-Intro-to-Python/12-Functions
 #       title: Python Functions
-#     - file: 02-Python/13-Common-Python-Errors
-#     - file: 02-Python/14-What-Were-Not-Covering
+#     - file: 02-Intro-to-Python/13-Common-Python-Errors
+#     - file: 02-Intro-to-Python/14-What-Were-Not-Covering
 #   - file: 03-Data-Analysis/00-Data-Analysis
 #     title: 3. Data Analysis (Pandas)
 #     sections:
-#     - file: 03-Data-Analysis/01-Pandas-Basics-Part1.ipynb
-#     - file: 03-Data-Analysis/02-Pandas-Basics-Part2.ipynb
-#     - file: 03-Data-Analysis/03-Pandas-Basics-Part3.ipynb
+#     - file: 03-Data-Analysis/01-Pandas-Basics-Part1
+#     - file: 03-Data-Analysis/02-Pandas-Basics-Part2
+#     - file: 03-Data-Analysis/03-Pandas-Basics-Part3
 #     - file: 03-Data-Analysis/04-Pandas-Merge-Datasets
 #   - file: 04-Data-Collection/00-Data-Collection
 #     title: 4. Data Collection (Web Scraping, APIs, Social Media)
@@ -142,6 +133,6 @@ parts:
 #   - file: 00-Datasets/00-Datasets
 # - caption: Extra Materials
 #   chapters:
-#   - file: 02-Python/EXTRA-Jupyter-Tips-Tricks
-#   - file: 02-Python/EXTRA-Randomize-Students
+#   - file: 02-Intro-to-Python/EXTRA-Jupyter-Tips-Tricks
+#   - file: 02-Intro-to-Python/EXTRA-Randomize-Students
 #     title: Make Random Student Groups
